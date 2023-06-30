@@ -1,6 +1,6 @@
 package com.ali.springbootblogrestapi.repository;
 
-import com.springboot.blog.entity.User;
+import com.ali.springbootblogrestapi.User;
 import org.springframework.data.domain.Example;
 import org.springframework.data.jpa.repository.JpaRepository;
 
