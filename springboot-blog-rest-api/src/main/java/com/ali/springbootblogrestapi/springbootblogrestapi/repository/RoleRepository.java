@@ -1,6 +1,6 @@
-package com.ali.springbootblogrestapi.repository;
+package com.ali.springbootblogrestapi.springbootblogrestapi.repository;
 
-import com.ali.springbootblogrestapi.entity.Role;
+import com.ali.springbootblogrestapi.springbootblogrestapi.entity.Role;
 import org.springframework.data.jpa.repository.JpaRepository;
 
 import java.util.Optional;

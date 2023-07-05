@@ -1,4 +1,4 @@
-package com.springboot.blog.dto;
+package com.ali.springbootblogrestapi.springbootblogrestapi.dto;
 
 import lombok.Data;
 

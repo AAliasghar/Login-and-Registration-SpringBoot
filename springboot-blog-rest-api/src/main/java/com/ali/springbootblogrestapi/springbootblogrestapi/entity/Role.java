@@ -1,9 +1,8 @@
-package com.ali.springbootblogrestapi.entity;
-
-import lombok.Getter;
-import lombok.Setter;
+package com.ali.springbootblogrestapi.springbootblogrestapi.entity;
 
 import jakarta.persistence.*;
+import lombok.Getter;
+import lombok.Setter;
 
 @Setter
 @Getter
