@@ -11,7 +11,7 @@
 -- -----------------------------------------------------
 SELECT * FROM users ;
 SELECT * FROM roles ;
-SELECT * FROM users_roles;
+SELECT * FROM user_roles;
 
 
 
